@@ -23,7 +23,7 @@ If you want to, feel free to clone and make changes and send a pull request on t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/lowmoney/scroll_up/blob/master/LICENSE.MD) file for details
 
 ## Future updates
 
